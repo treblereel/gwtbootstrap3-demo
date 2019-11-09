@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/gwtbootstrap3/gwtbootstrap3-demo.svg?branch=master)](https://travis-ci.org/gwtbootstrap3/gwtbootstrap3-demo)
 
 ##About
-This is the source code for that [GwtBootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) and [GwtBootstrap3-Extras](https://github.com/gwtbootstrap3/gwtbootstrap3-extras) demos.
+This is the source code for that [GwtBootstrap3](https://github.com/treblereel/gwtbootstrap3) and [GwtBootstrap3-Extras](https://github.com/gwtbootstrap3/gwtbootstrap3-extras) demos.
 
 ##Current Release
-* [Demo](http://gwtbootstrap3.github.io/gwtbootstrap3-demo/) - See the current release in action!
+* [Demo](https://env-9441834.cloud.unispace.io//) - See the current release in action!
 * [API Docs](http://gwtbootstrap3.github.io/gwtbootstrap3-demo/apidocs) - The current javadoc.
 * [Extras API Docs](http://gwtbootstrap3.github.io/gwtbootstrap3-demo/extras-apidocs) - The current extras javadoc.
 * [Supported Features](https://github.com/gwtbootstrap3/gwtbootstrap3/wiki/Supported-Features) - Current releases supported features.

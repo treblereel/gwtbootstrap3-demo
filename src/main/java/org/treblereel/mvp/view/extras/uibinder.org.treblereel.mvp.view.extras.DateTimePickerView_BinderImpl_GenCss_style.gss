@@ -1,0 +1,34 @@
+
+        .logRow {
+            border: 1px solid #888888;
+            padding: 5px;
+            min-height: 300px;
+        }
+
+        .logTitle {
+            margin-right: 10px;
+        }
+
+        .danger {
+            background-color: #fcf2f2;
+            border-color: #dFb5b4;
+        }
+
+        .margin-fix {
+            margin-top: 0 !important;
+        }
+
+        .spacing {
+            margin-left: 3px;
+        }
+
+        .spacing2 {
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        .buttons > button {
+            margin-right: 5px;
+            margin-bottom: 5px;
+        }
+    

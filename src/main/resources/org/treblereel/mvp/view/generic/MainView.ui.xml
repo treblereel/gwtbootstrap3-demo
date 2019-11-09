@@ -1,0 +1,46 @@
+<!-- #%L GwtBootstrap3 %% Copyright (C) 2013 GwtBootstrap3 %% Licensed under
+	the Apache License, Version 2.0 (the "License"); you may not use this file
+	except in compliance with the License. You may obtain a copy of the License
+	at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable
+	law or agreed to in writing, software distributed under the License is distributed
+	on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+	express or implied. See the License for the specific language governing permissions
+	and limitations under the License. #L% -->
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:org.gwtproject.uibinder"
+             xmlns:b="urn:import:org.gwtbootstrap3.client.ui"
+             xmlns:b.html="urn:import:org.gwtbootstrap3.client.ui.html">
+
+    <b:Row>
+        <b:Column size="XS_12">
+            <b:Jumbotron>
+                <b:Heading size="H1" text="Demo for GwtBootstrap3"/>
+
+                <b.html:Paragraph>
+                    A
+                    <a href="http://gwtproject.org/">GWT3/J2CL</a>
+                    wrapper for
+                    <a href="http://getbootstrap.com/">Bootstrap</a>
+                </b.html:Paragraph>
+
+                <b.html:Paragraph>
+                    This is the demo for
+                    <a href="https://github.com/treblereel/gwtbootstrap3">GwtBootstrap3</a>
+                    version 1.0-SNAPSHOT.
+
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <b.html:Paragraph>Support my work on GWT3 via PayPal</b.html:Paragraph>
+                    <a href="https://www.paypal.me/treblereels/150">
+                        <img alt="Support my GWT3 progress via PayPal" src="https://qph.fs.quoracdn.net/main-qimg-7feb81f45db5bd355683bc19b3c7ee00.webp"/>
+                    </a>
+
+                </b.html:Paragraph>
+            </b:Jumbotron>
+        </b:Column>
+    </b:Row>
+</ui:UiBinder>
