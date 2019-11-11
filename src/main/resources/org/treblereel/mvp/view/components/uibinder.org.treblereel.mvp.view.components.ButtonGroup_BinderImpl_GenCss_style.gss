@@ -1,0 +1,9 @@
+
+        .log {
+            border: solid #555 1px;
+            padding: 0.5em;
+            height: 10em;
+            max-height: 10em;
+            overflow: scroll;
+        }
+    

@@ -1,0 +1,18 @@
+
+        .visible {
+            color: #468847;
+            background-color: #dff0d8;
+            border: 1px solid #d6e9c6
+        }
+
+        .column {
+            margin-bottom: 10px;
+        }
+
+        .column > span {
+            border-radius: 4px;
+            border: 1px solid #CCC;
+            padding: 10px;
+            text-align: center;
+        }
+    

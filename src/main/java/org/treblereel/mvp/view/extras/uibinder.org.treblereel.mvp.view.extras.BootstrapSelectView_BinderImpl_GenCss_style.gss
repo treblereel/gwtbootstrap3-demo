@@ -1,0 +1,35 @@
+
+        .danger {
+            background-color: #fcf2f2;
+            border-color: #dFb5b4;
+        }
+
+        .logRow {
+            border: 1px solid #888888;
+            padding: 5px;
+            min-height: 200px;
+        }
+
+        .logTitle {
+            margin-right: 10px;
+        }
+
+        .margin-fix {
+            margin-top: 0 !important;
+        }
+
+        .special {
+            font-weight: bold !important;
+            color: #fff !important;
+            background: #bc0000 !important;
+            text-transform: uppercase;
+        }
+
+        .spacing {
+            margin-left: 5px;
+        }
+
+        .bottom {
+            margin-bottom: 20px;
+        }
+    

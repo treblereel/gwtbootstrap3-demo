@@ -1,0 +1,13 @@
+
+        .margin {
+            margin-right: 10px;
+        }
+
+        .inline {
+            display: inline;
+        }
+
+        .wider {
+            max-width: 400px;
+        }
+    

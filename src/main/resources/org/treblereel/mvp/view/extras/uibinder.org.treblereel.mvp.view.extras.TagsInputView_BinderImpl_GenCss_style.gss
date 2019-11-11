@@ -1,0 +1,20 @@
+
+    @external bootstrap-tagsinput;
+
+    .danger {
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    }
+
+    .margin-fix {
+    margin-top: 0 !important;
+    }
+
+    .spacing {
+    margin-left: 5px;
+    }
+
+    .bootstrap-tagsinput {
+    width: 100%;
+    }
+  
